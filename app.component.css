@@ -1,0 +1,11 @@
+.success
+{
+ color: blue;
+}
+div
+{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
